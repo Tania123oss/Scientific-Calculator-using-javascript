@@ -21,4 +21,4 @@ Idex.js
 This is my script file where I write all the javascript code.
 
 
-![picture](img/Capture.jpg)
+![picture](https://github.com/Tania123oss/Scientific-Calculator-using-javascript/blob/main/img/Capture.JPG)
