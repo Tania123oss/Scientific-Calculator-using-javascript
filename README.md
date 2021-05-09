@@ -21,4 +21,4 @@ Idex.js
 This is my script file where I write all the javascript code.
 
 
-![picture](img/capture.jpg)
+![picture](/img/capture.jpg)
