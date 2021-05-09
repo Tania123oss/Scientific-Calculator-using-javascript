@@ -47,12 +47,12 @@ But if using bootstrap copy the css link from bootstrap website add the link ins
 
 # BUILTIN FUNCTIONS OF JAVASCRIPT I USED:
 
-sin = to calculate sine function of a number
-cos = to calculate cosine function of a number
-tan = to calculate tangent function of a number
-pow = to calculate powers / root of a number
-eval = to evaluate the argument
-substr = to returns the part of the string between the start and end indexes, or to the end of the string.
+- sin = to calculate sine function of a number
+- cos = to calculate cosine function of a number
+- tan = to calculate tangent function of a number
+- pow = to calculate powers / root of a number
+- eval = to evaluate the argument
+- substr = to returns the part of the string between the start and end indexes, or to the end of the string.
 
 # FUNCTIONS IN JS FILE:
 
