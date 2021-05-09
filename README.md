@@ -30,6 +30,11 @@ Fisrt add the link of your css file inside the head tag of html file
 ![picture](https://github.com/Tania123oss/Scientific-Calculator-using-javascript/blob/main/img/Capture.JPG)
 
 Then add js link inside the body tag of html file
+![picture](https://github.com/Tania123oss/Scientific-Calculator-using-javascript/blob/main/img/4.JPG)
+
+Additionally I used bootstrap to make it resposnive. You can also write media queries
+But if using bootstrap copy the css link from bootstrap website add the link inside the head tag of html file
+![picture](https://github.com/Tania123oss/Scientific-Calculator-using-javascript/blob/main/img/5.JPG)
 
 BUILTIN FUNCTIONS OF JAVASCRIPT I USED:
 sin = to calculate sine function of a number
@@ -39,7 +44,9 @@ pow = to calculate powers / root of a number
 eval = to evaluate the argument
 substr = to returns the part of the string between the start and end indexes, or to the end of the string.
 
+These are all the functions I create in script file:
 
-
+![picture](https://github.com/Tania123oss/Scientific-Calculator-using-javascript/blob/main/img/6.JPG)
+![picture](https://github.com/Tania123oss/Scientific-Calculator-using-javascript/blob/main/img/7.JPG)
 
 
