@@ -1,7 +1,8 @@
 Hi there!
 
-This is a scietific calculator using javascript
+This is a scientific calculator using javascript
 
+![picture](https://github.com/Tania123oss/Scientific-Calculator-using-javascript/blob/main/img/8.JPG)
 OBJECTIVE:
 The main purpose of building this project is to implement my learning of javascript on some project.
 
@@ -30,10 +31,12 @@ Fisrt add the link of your css file inside the head tag of html file
 ![picture](https://github.com/Tania123oss/Scientific-Calculator-using-javascript/blob/main/img/Capture.JPG)
 
 Then add js link inside the body tag of html file
+
 ![picture](https://github.com/Tania123oss/Scientific-Calculator-using-javascript/blob/main/img/4.JPG)
 
 Additionally I used bootstrap to make it resposnive. You can also write media queries
 But if using bootstrap copy the css link from bootstrap website add the link inside the head tag of html file
+
 ![picture](https://github.com/Tania123oss/Scientific-Calculator-using-javascript/blob/main/img/5.JPG)
 
 BUILTIN FUNCTIONS OF JAVASCRIPT I USED:
