@@ -70,6 +70,5 @@ https://github.com/Tania123oss/Scientific-Calculator-using-javascript](url)
 # HOSTING:
 I host my project on https://www.netlify.com/. You can also enjoy hosting your projects.
 
-You can also check my project on https://infallible-goodall-af9a51.netlify.app/
-
+You can also check my project on https://scientific-calculator-by-tania.netlify.app
 
